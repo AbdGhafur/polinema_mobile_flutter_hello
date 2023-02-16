@@ -1,16 +1,2 @@
-# polinema_mobile_flutter_hello
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![15c2f2c5-7223-4430-adca-21c7d3a8a8f8](https://user-images.githubusercontent.com/92065915/219391021-1316acc1-ca40-4bcc-acb3-873ae498feca.jpg)
